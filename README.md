@@ -68,3 +68,6 @@ python3 src/evaluate_model.py
 The dataset in `data/raw/narratives_raw.csv` is **synthetic** — written to
 demonstrate the pipeline, not collected from real research participants.
 `docs/model_card.md` contains full limitations and ethical considerations.
+
+## AI Transparency 
+This program was co-authored using Claude Code Sonnet 5. 
