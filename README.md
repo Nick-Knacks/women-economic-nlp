@@ -55,9 +55,6 @@ python3 src/evaluate_model.py
 
 ## Why This Structure
 
-This project mirrors the five core responsibility areas of the
-internship it was built to demonstrate:
-
 1. **Data collection & cleaning** → `clean_text.py`, `narratives_raw.csv`
 2. **Domain category development** → `category_keywords.json`,
    `annotation_guidelines.md`
@@ -70,5 +67,4 @@ internship it was built to demonstrate:
 
 The dataset in `data/raw/narratives_raw.csv` is **synthetic** — written to
 demonstrate the pipeline, not collected from real research participants.
-See `docs/model_card.md` for full limitations and ethical considerations
-before treating any output here as validated or production-ready.
+`docs/model_card.md` contains full limitations and ethical considerations.
