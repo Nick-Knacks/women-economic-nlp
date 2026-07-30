@@ -4,3 +4,4 @@ rapidfuzz
 langdetect
 jupyter
 joblib
+streamlit
