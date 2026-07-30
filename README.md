@@ -1,7 +1,6 @@
 # Women's Economic Narratives NLP Pipeline
 
-A small end-to-end NLP pipeline demonstrating skills relevant to an
-AI/NLP internship focused on Swahili and mixed-language narratives about
+A small end-to-end NLP pipeline focused on Swahili and mixed-language narratives about
 women's economic lives (savings, debt, chama obligations, business risk,
 care work, health shocks, and lending readiness).
 
