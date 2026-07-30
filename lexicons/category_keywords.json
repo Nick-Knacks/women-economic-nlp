@@ -1,0 +1,32 @@
+{
+  "savings": [
+    "akiba", "kuweka pesa", "kuweka akiba", "save", "saving", "savings",
+    "akaunti ya benki", "bank account", "kuweka kidogo kidogo"
+  ],
+  "debt": [
+    "deni", "kukopa", "kukopwa", "mkopo", "debt", "loan", "borrow", "borrowed",
+    "kulipa deni", "riba", "interest"
+  ],
+  "chama_obligations": [
+    "chama", "wanachama", "mchango", "kuchangia", "contribution", "contribute",
+    "chama chetu", "wajibu wa chama", "chama meetings", "mikutano ya chama"
+  ],
+  "business_risk": [
+    "biashara", "hasara", "hatari", "ushindani", "business", "loss", "risk",
+    "competition", "kufungwa", "closing", "mauzo yamepungua"
+  ],
+  "care_work": [
+    "kutunza", "watoto", "wazazi", "mgonjwa wa nyumbani", "care", "caring",
+    "childcare", "elderly", "household", "majukumu ya nyumbani"
+  ],
+  "health_shock": [
+    "ugonjwa", "mgonjwa", "hospitali", "matibabu", "sick", "illness",
+    "hospital", "hospitalized", "treatment", "emergency ya kiafya",
+    "dharura za kiafya"
+  ],
+  "lending_readiness": [
+    "dhamana", "mdhamini", "mtaji", "tayari kifedha", "collateral",
+    "guarantor", "capital", "financially ready", "financially prepared",
+    "kifedha", "mkopo mkubwa"
+  ]
+}
